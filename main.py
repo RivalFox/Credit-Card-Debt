@@ -9,7 +9,7 @@ def main():
 	# .1999
 	# 6453.28
 	# 250
-	#print(str(calculate.how_long_are_you_paying(userPrompts.spkToUser())) + " months to pay off")
+	print(str(calculate.how_long_are_you_paying(userPrompts.spkToUser())) + " months to pay off")
 
 	
 

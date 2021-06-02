@@ -13,7 +13,6 @@ def spkToUser():
 	return [apr, bal, monthly_pymnt]
 
 
-def spkToUser2():
 	
 
 
